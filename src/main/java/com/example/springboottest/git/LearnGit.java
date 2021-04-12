@@ -6,4 +6,7 @@ public class LearnGit {
         int y = 10 / 0;
         int z = y + 20;
     }
+    public void get(){
+        System.out.println("sfssdf");
+    }
 }
